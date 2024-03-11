@@ -1,10 +1,10 @@
 {
-  "name": "Phoenix-MD",
+  "name": "Kenyan-MD",
   "version": "1.0.0",
-  "description": "Phoenix-MD Simple WhatsApp Bot",
-  "logo": "https://i.imgur.com/T78fhJk.jpeg",
-  "keywords": ["whatsapp", "bot", "md", "multi-device", "Phoenix", "Phoenix-MD", "wabot", "termux-bot", "sc-bot"],
-  "repository": "https://github.com/AbhishekSuresh2/Phoenix-MD",
+  "description": "Kenyan-MD Simple WhatsApp Bot",
+  "logo": "https://telegra.ph/file/25b60ba1474cffb21969c.jpg",
+  "keywords": ["whatsapp", "bot", "md", "multi-device", "Kenyan", "Kenyan-MD", "wabot", "termux-bot", "sc-bot"],
+  "repository": "https://github.com/Rhodvick/Kenyan-MD",
   "stack": "container",
   "env": {
     "SESSION_ID": {
@@ -19,27 +19,27 @@
     "SUDO": {
       "description": "Enter Numbers With Country Code Without + Separated With , To Add More Numbers",
       "required": false,
-      "value": "919074692450"
+      "value": "254700150919"
     },
     "STICKER_DATA": {
       "description": "Enter Your Sticker PackName And Author Name",
       "required": false,
-      "value": "🎯𝙿𝚑𝚘𝚎𝚗𝚒𝚡-𝙼𝙳;𝙰𝚋𝚑𝚒𝚜𝚑𝚎𝚔 𝚂𝚞𝚛𝚎𝚜𝚑☘️"
+      "value": "🎯Kenyan-𝙼𝙳;Rhodvick tech☘️"
     },
     "OWNER_NAME": {
       "description": "Enter Your Owner Name",
       "required": false,
-      "value": "Abhishek Suresh"
+      "value": "RHODVICK TECH"
     },
     "OWNER_NUMBER": {
       "description": "Enter Your Owner Number",
       "required": false,
-      "value": "919074692450"
+      "value": "254700150919"
     },
     "BOT_NAME": {
       "description": "Enter Your Bot Name",
       "required": false,
-      "value": "Phoenix-MD"
+      "value": "Kenyan-MD"
     },
     "WORK_TYPE": {
       "description": "Enter Your Mode Type public For Public Otherwise Type private",
@@ -62,7 +62,7 @@
     "AUTO_STATUS_READ": {
       "description": "If You Want To View Status Automatically, Type true. Otherwise, Type false",
       "required": false,
-      "value": "false"
+      "value": "true"
     }
   },
   "buildpacks": [
