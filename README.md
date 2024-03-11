@@ -26,9 +26,9 @@ Fork The Repo
 
 #### Scan QR Code
 
-<a href="https://Kenyan-md-qr-code-569ef64f2cad.herokuapp.com"><img title="Kenyan-MD Scan Qr" src="https://img.shields.io/badge/SCAN QR CODE 1-h?color=black&style=for-the-badge&logo=msi"></a>
+<a href="https://Kenyan-md-qr-code-569ef64f2cad.herokuapp.com"><img title="Phoenix-MD Scan Qr" src="https://img.shields.io/badge/SCAN QR CODE 1-h?color=black&style=for-the-badge&logo=msi"></a>
      <br>
-<a href="https://Kenyan-md-qr-code-569ef64f2cad.herokuapp.com/session"><img title="Kenyan-MD Scan Qr" src="https://img.shields.io/badge/SCAN QR CODE 2-h?color=black&style=for-the-badge&logo=msi"></a>     
+<a href="https://Phoenix-md-qr-code-569ef64f2cad.herokuapp.com/session"><img title="Kenyan-MD Scan Qr" src="https://img.shields.io/badge/SCAN QR CODE 2-h?color=black&style=for-the-badge&logo=msi"></a>     
 
 
 ## Kenyan-MD Deploy Method
