@@ -1,8 +1,8 @@
 FROM node:lts-buster
 
-RUN git clone https://github.com/AbhishekSuresh2/Phoenix-MD/ /root/Phoenix-MD
+RUN git clone https://github.com/Rhodvick/Kenyan-MD/ /root/Kenyan-MD
 
-WORKDIR /root/Phoenix-MD
+WORKDIR /root/Kenyan-MD
 
 RUN apt-get update && \
   apt-get install -y \
